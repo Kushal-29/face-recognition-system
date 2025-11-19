@@ -1,0 +1,4 @@
+run code : -
+
+pip install flask opencv-python face-recognition numpy glob
+python main.py
