@@ -267,11 +267,6 @@ If you encounter any issues or have questions:
 
 </div>
 
-## 🎥 Demo
-
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Face+Recognition+System+Demo)
-
-*Live demo available at: [Your Demo Link Here]*
 
 ---
 
