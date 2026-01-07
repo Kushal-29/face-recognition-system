@@ -6,7 +6,7 @@ import numpy as np
 import threading
 import time
 import queue
-import face_recognition  # ⚠️ THIS WAS MISSING! ⚠️
+import face_recognition 
 
 app = Flask(__name__)
 
@@ -360,4 +360,5 @@ if __name__ == '__main__':
     try:
         app.run(debug=True, host='0.0.0.0', port=5000, threaded=True)
     except Exception as e:
+
         print(f"❌ Error starting server: {e}")
