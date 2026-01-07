@@ -1,6 +1,6 @@
 # 🎭 Face Recognition System
 
-A real-time face recognition web application built with Flask, OpenCV, and face_recognition library. Features criminal detection, live video streaming, and a modern web interface with animated background.    
+A real-time face recognition web application built with Flask, OpenCV, and face_recognition library. Features criminal detection, live video streaming, and a modern web interface with animated background.     
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-green)
@@ -34,7 +34,7 @@ A real-time face recognition web application built with Flask, OpenCV, and face_
    cd face-recognition-system
    ```
 
-2. **Create virtual environment (recommended)**
+2. **Create virtual environment (recommended)** 
    ```bash
    # Windows
    python -m venv venv
@@ -45,7 +45,7 @@ A real-time face recognition web application built with Flask, OpenCV, and face_
    source venv/bin/activate
    ```
 
-3. **Install dependencies**
+3. **Install dependencies** 
    ```bash
    pip install -r requirements.txt
    ```
@@ -221,7 +221,7 @@ pip install -r requirements.txt
 # Run in development mode
 python main.py
 
-# The app will auto-reload on code changes
+# The app will auto-reload on code changes 
 ```
 
 ## 📝 License
@@ -251,19 +251,19 @@ If you encounter any issues or have questions:
 
 1. **Check the [Issues](https://github.com/yourusername/face-recognition-system/issues)** page
 2. **Create a new issue** with detailed description 
-3. **Provide system information** (OS, Python version, error logs) 
+3. **Provide system information** (OS, Python version, error logs)  
 
 ---
 
 **⭐ Star this repository if you find it helpful!**
 
-**🔔 Watch for updates and new features!**
+**🔔 Watch for updates and new features!** 
 
 ---
 
 <div align="center">
 
-*Built with ❤️ using Python, Flask, and OpenCV*
+*Built with ❤️ using Python, Flask, and OpenCV* 
 
 </div>
 
