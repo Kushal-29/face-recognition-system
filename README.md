@@ -228,7 +228,7 @@ python main.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments. 
 
 - **[face_recognition](https://github.com/ageitgey/face_recognition)** - Amazing face recognition library by Adam Geitgey
 - **[Flask](https://flask.palletsprojects.com/)** - Lightweight web framework
@@ -259,15 +259,15 @@ If you encounter any issues or have questions:
 
 **🔔 Watch for updates and new features!** 
 
----
+---  
 
 <div align="center">
 
 *Built with ❤️ using Python, Flask, and OpenCV* 
 
-</div>
+</div>. 
 
 
 ---
 
-**Note**: This project is intended for educational and demonstration purposes. Always ensure compliance with local privacy laws and regulations when deploying face recognition systems.
+**Note**: This project is intended for educational and demonstration purposes. Always ensure compliance with local privacy laws and regulations when deploying face recognition systems.   
