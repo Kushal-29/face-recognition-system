@@ -1,11 +1,11 @@
 # 🎭 Face Recognition System
 
-A real-time face recognition web application built with Flask, OpenCV, and face_recognition library. Features criminal detection, live video streaming, and a modern web interface with animated background.     
+A real-time face recognition web application built with Flask, OpenCV, and face_recognition library. Features criminal detection, live video streaming, and a modern web interface with animated background.       
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-2.3.3-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-orange)
-![Face Recognition](https://img.shields.io/badge/Face--Recognition-1.3.0-red)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)    
+![Flask](https://img.shields.io/badge/Flask-2.3.3-green) 
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8.1-orange) 
+![Face Recognition](https://img.shields.io/badge/Face--Recognition-1.3.0-red)   
 
 ## ✨ Features
 
